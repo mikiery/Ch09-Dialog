@@ -48,8 +48,6 @@ public class M0901 extends AppCompatActivity implements View.OnClickListener {
         t001.setText("");
         Calendar now= Calendar.getInstance();
 
-
-
         switch (v.getId()){
 
             case R.id.m0901_b001:
